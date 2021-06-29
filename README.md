@@ -1,1 +1,2 @@
-# Module-2
+# Coursera assignment of webdev course
+by Johns Hopkins University

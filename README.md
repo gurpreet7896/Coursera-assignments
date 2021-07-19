@@ -13,20 +13,20 @@ This repository contains my solutions to the Modules of Coding Assignments for t
 
 ### Module 2
 * [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution](https://github.com/gurpreet7896/Coursera-assignments/tree/main/module2)
 
 
-### Module 2
+### Module 3
 * [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 * [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
 
 
-### Module 2
+### Module 4
 * [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 * [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
 
 
-### Module 2
+### Module 5
 * [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 * [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
 
